@@ -1,8 +1,9 @@
 
+
 body {
-  background-color: #293D32;
-  color: #ddd;
-  font-family: copperplate, helvetica;
+  background-color: #6790A7;
+  color: #050300;
+  font-family: "AmericanTypewriter", sans-serif;
   margin: 10% 20%;
 }
 
@@ -12,4 +13,22 @@ text-transform: uppercase;
 border-top: 1px solid #c4be0f;
 border-bottom: 1px solid #c4be0f;
 background-color: rgba(0,0,0, 0.1)
+}
+
+img {
+  
+  box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+}
+
+h4 {
+  line-height: 0;
+}
+
+h5 {
+line-height: 0;
+}
+
+h6 {
+  font-style: italic;
+  line-height: 0;
 }
