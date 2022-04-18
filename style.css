@@ -16,8 +16,22 @@ background-color: rgba(0,0,0, 0.1)
 }
 
 img {
-  
+  display: block;
+  float:right;
+  margin-left:10px;
+  margin-bottom: 20px;
   box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+}
+
+.responsive {
+  max-width: 50%;
+  height: auto;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 h4 {
