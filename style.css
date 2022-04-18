@@ -17,9 +17,8 @@ background-color: rgba(0,0,0, 0.1)
 
 img {
   display: block;
-  float:right;
   margin-left:10px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
 }
 
